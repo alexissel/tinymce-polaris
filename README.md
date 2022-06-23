@@ -2,7 +2,6 @@
 
 TinyMCE skin which uses Shopify's Polaris style guide
 
-
 ![TinyMCE Skin for Shopify Polaris](screenshot.png)
 
 ## Usage
@@ -17,7 +16,7 @@ tinymce.init({
 });
 ```
 
-   or if you want to specify the location of your own "skins" directory, use this setting:
+... or if you want to specify the location of your own "skins" directory, use this setting:
 
 ```
 tinymce.init({
