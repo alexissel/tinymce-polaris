@@ -17,7 +17,7 @@ tinymce.init({
 });
 ```
 
-or if you want to specify the location of your own "skins" directory, use this setting:
+   or if you want to specify the location of your own "skins" directory, use this setting:
 
 ```
 tinymce.init({
