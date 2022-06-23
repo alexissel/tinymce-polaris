@@ -2,10 +2,11 @@
 
 TinyMCE skin which uses Shopify's Polaris style guide
 
+
 ![TinyMCE Skin for Shopify Polaris](screenshot.png)
 
 ## Usage
-1. Clone repository `git clone https://github.com/alexissel/tinymce-polaris.git .` or download ZIP file and extract `polaris` folder, into your TintMCE `skins` folder.
+1. Clone repository `git clone https://github.com/alexissel/tinymce-polaris.git .` or download Zip file and extract `polaris` folder, into your TintMCE `skins` folder.
 
 2. In your tinymce.init() function call the "skin" property with this setting:
 
