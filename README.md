@@ -6,14 +6,14 @@ TinyMCE skin which uses Shopify's Polaris style guide.
 
 | Version             |   Folder   | X                  |
 | ------------------- | :--------: | ------------------ |
-| Shopify Polaris v9  | polaris-11 | :white_check_mark: |
-| Shopify Polaris v10 | polaris-11 | :white_check_mark: |
-| Shopify Polaris v11 | polaris-11 | :white_check_mark: |
 | Shopify Polaris v12 | polaris-12 | :white_check_mark: |
-
-![TinyMCE Skin for Shopify Polaris](screenshot-12.png)
+| Shopify Polaris v11 | polaris-11 | :white_check_mark: |
+| Shopify Polaris v10 | polaris-11 | :white_check_mark: |
+| Shopify Polaris v9  | polaris-11 | :white_check_mark: |
 
 ### Usage for Polaris v12
+
+![TinyMCE Skin for Shopify Polaris](screenshot-12.png)
 
 1. Clone repository `git clone https://github.com/alexissel/tinymce-polaris.git .` or download Zip file and extract `polaris` folder, into your TinyMCE `skins` folder.
 
@@ -36,9 +36,9 @@ tinymce.init({
 });
 ```
 
-![TinyMCE Skin for Shopify Polaris](screenshot-11.png)
-
 ### Usage for Polaris v9 to v11
+
+![TinyMCE Skin for Shopify Polaris](screenshot-11.png)
 
 1. Clone repository `git clone https://github.com/alexissel/tinymce-polaris.git .` or download Zip file and extract `polaris` folder, into your TinyMCE `skins` folder.
 
