@@ -6,9 +6,9 @@ TinyMCE skin which uses Shopify's Polaris style guide.
 
 ### Compatibility
 
-| Version | Folder | X |
-| --- | :---: |
-| Shopify Polaris v9 | polaris-11 | :white_check_mark: |
+| Version             |   Folder   | X                  |
+| ------------------- | :--------: | ------------------ |
+| Shopify Polaris v9  | polaris-11 | :white_check_mark: |
 | Shopify Polaris v10 | polaris-11 | :white_check_mark: |
 | Shopify Polaris v11 | polaris-11 | :white_check_mark: |
 | Shopify Polaris v12 | polaris-12 | :white_check_mark: |
