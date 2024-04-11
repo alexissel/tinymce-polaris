@@ -15,14 +15,15 @@ TinyMCE skin which uses Shopify's Polaris style guide.
 
 ![TinyMCE Skin for Shopify Polaris](screenshot-12.png)
 
-1. Clone repository `git clone https://github.com/alexissel/tinymce-polaris.git .` or download Zip file and extract `polaris` folder, into your TinyMCE `skins` folder.
+1. Clone repository `git clone https://github.com/alexissel/tinymce-polaris.git .` or download the zip file and extract `polaris-12` folder, into your TinyMCE `skins` folder.
 
 2. In your `tinymce.init()` function call the "skin" property with this setting:
 
 ```
 tinymce.init({
   selector: 'textarea',  // Change this value according to your HTML
-  skin: 'polaris',
+  skin: 'polaris-12',
+  icons: 'polaris-12',
 });
 ```
 
@@ -32,7 +33,9 @@ tinymce.init({
 tinymce.init({
   selector: 'textarea',  // Change this value according to your HTML
   skin_url: '/path/to/your/skins/folder',
-  skin: 'polaris',
+  skin: 'polaris-12',
+  icons_url: '/path/to/your/icons/folder/icons.js',
+  icons: 'polaris-12',
 });
 ```
 
@@ -40,14 +43,14 @@ tinymce.init({
 
 ![TinyMCE Skin for Shopify Polaris](screenshot-11.png)
 
-1. Clone repository `git clone https://github.com/alexissel/tinymce-polaris.git .` or download Zip file and extract `polaris` folder, into your TinyMCE `skins` folder.
+1. Clone repository `git clone https://github.com/alexissel/tinymce-polaris.git .` or download the zip file and extract `polaris-11` folder, into your TinyMCE `skins` folder.
 
 2. In your `tinymce.init()` function call the "skin" property with this setting:
 
 ```
 tinymce.init({
   selector: 'textarea',  // Change this value according to your HTML
-  skin: 'polaris',
+  skin: 'polaris-11',
 });
 ```
 
@@ -57,6 +60,6 @@ tinymce.init({
 tinymce.init({
   selector: 'textarea',  // Change this value according to your HTML
   skin_url: '/path/to/your/skins/folder',
-  skin: 'polaris',
+  skin: 'polaris-11',
 });
 ```
