@@ -2,8 +2,6 @@
 
 TinyMCE skin which uses Shopify's Polaris style guide.
 
-![TinyMCE Skin for Shopify Polaris](screenshot-12.png)
-
 ### Compatibility
 
 | Version             |   Folder   | X                  |
@@ -12,6 +10,8 @@ TinyMCE skin which uses Shopify's Polaris style guide.
 | Shopify Polaris v10 | polaris-11 | :white_check_mark: |
 | Shopify Polaris v11 | polaris-11 | :white_check_mark: |
 | Shopify Polaris v12 | polaris-12 | :white_check_mark: |
+
+![TinyMCE Skin for Shopify Polaris](screenshot-12.png)
 
 ### Usage for Polaris v12
 
@@ -35,6 +35,8 @@ tinymce.init({
   skin: 'polaris',
 });
 ```
+
+![TinyMCE Skin for Shopify Polaris](screenshot-11.png)
 
 ### Usage for Polaris v9 to v11
 
